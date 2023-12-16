@@ -645,6 +645,7 @@ kbd {
 
 #header_wrap {
     background-image: url("../image/tushuguan.jpg");
+    background-size: 100% 100%;
 }
 
 #header_wrap .inner {
@@ -826,5 +827,5 @@ kbd {
 }
 #iframe_schedule {
     width: 900px;
-  height: 750px;
+  height: 800px;
   }
