@@ -445,7 +445,7 @@ p {
 }
 
 footer p {
-    color: #000000
+    color: #f2f2f2
 }
 
 a {
@@ -470,7 +470,7 @@ a:focus {
 }
 
 footer a {
-    color: #0090ff;
+    color: #f2f2f2;
     text-decoration: underline
 }
 
